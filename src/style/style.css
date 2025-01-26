@@ -1,0 +1,22 @@
+/* Google Fonts Material Icons */
+@import url(https://fonts.googleapis.com/icon?family=Material+Icons);
+.material-icons {
+  display: inline-flex;
+  vertical-align: middle;
+}
+
+/* header */
+header {
+	font-size: 20px;
+}
+
+header a, a:hover, a:visited {
+	color: #777777;
+	text-decoration: none;
+}
+
+header div[class*=col] {
+	display: inline-flex;
+	vertical-align: middle;
+	align-items: center;
+}
